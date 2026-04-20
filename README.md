@@ -3,7 +3,7 @@
 <img align="right" alt="waving" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left">
 
-- 🌱 I’m currently learning **DSA & Web Development**
+- 🌱 I’m currently learning **DSA & Agentic AI**
 
 - 📫 How to reach me **mr.srinjoy@gmail.com**
 
