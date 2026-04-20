@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Srinjoy</h1>
-<h3 align="center">A passionate Computer Science Student from Kolkata,India</h3>
+<h3 align="center">A Computer Science Engineer from India</h3>
 <img align="right" alt="waving" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left">
 
